@@ -1,4 +1,3 @@
-{F5FFFA}Версия: {FF0000}6.1{F5FFFA}
+{F5FFFA}Версия: {FF0000}6.2{F5FFFA}
 
-- Убраны команды: /getpass, /getuninvite, /getfwarn;
-- Добавлена команда: /history_army;
+- Оптимизация кода;
